@@ -1,6 +1,6 @@
 ## Hi there 👋
 CS student in SCUT.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scholarpei)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scholarpei)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
